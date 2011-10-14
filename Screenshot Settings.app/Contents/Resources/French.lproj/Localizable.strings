@@ -1,0 +1,13 @@
+﻿/* Localized strings for “Screenshot Settings” (French) */
+/* Translation by: Frédéric Pinadron */
+
+"DIALOG_FORMAT" =   "Sauvegarder les captures d'écran dans ce format:";
+"DIALOG_LOCATION" = "Sauvegarder les captures d'écran vers ce dossier:";
+
+"INVALID_ALERT" =   "Item(s) inadmissible";
+"INVALID_MSG" =     "Cette application n'accepte le dépôt que d'un dossier à la fois.";
+
+"STATUS_SAVED" =    "Réglages sauvegardés.";
+"STATUS_LOGOUT" =   "Vous devez quitter votre session pour appliquer vos changements.";
+
+"WORD_CANCEL" =     "Annuler";

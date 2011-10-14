@@ -1,0 +1,13 @@
+﻿/* Localized strings for “Screenshot Settings” (English) */
+/*  Originally by: Bruce Phillips */
+
+"DIALOG_FORMAT" =   "Save screenshots in this format:";
+"DIALOG_LOCATION" = "Save screenshots to this folder:";
+
+"INVALID_ALERT" =   "Invalid Item(s)";
+"INVALID_MSG" =     "This application only accepts one dropped folder.";
+
+"STATUS_SAVED" =    "Settings saved.";
+"STATUS_LOGOUT" =   "You need to logout to apply changes.";
+
+"WORD_CANCEL" =     "Cancel";
